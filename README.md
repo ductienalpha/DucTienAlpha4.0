@@ -1,4 +1,4 @@
-# DucTien Alpha 4.0
+# DucTien Alpha 4.0 (BETA)
 Duc Tien Alpha - Tool AI giải bài tập.
 
 ## **Cách dùng**
@@ -7,9 +7,9 @@ Duc Tien Alpha - Tool AI giải bài tập.
 
 [Download Tampermonkey Cho Điện Thoại](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
-Bấm vào đây sau khi tải Tampermonkey để tự động cài đặt Tool:
+Bấm vào đây sau khi tải Tampermonkey để tự động cài đặt Tool: [DucTien Alpha 4.0 (BETA)](https://raw.githubusercontent.com/ductienalpha/DucTienAlpha4.0/main/tampermonkey.user.js)
 
-- Sau đó nhập Key Panel: ductientest1d (Key sử dụng giới hạn)
+- Sau đó nhập Key Panel: dtlove (HSD: 1d)
 
 - Sau khi nhập key xong, lấy API Key từ link sau: [API Key](https://aistudio.google.com/app/apikey)
 
