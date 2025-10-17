@@ -27,7 +27,7 @@ Bấm vào đây sau khi tải Tampermonkey để tự động cài đặt Tool:
 
 - Tự tạo dự án sau đó bấm "Tạo một khóa"
  <p align="center"> 
-    <img width="534" height="303" alt="image" src="https://github.com/user-attachments/assets/f9971567-e447-4914-99ee-7511cb843018" />
+    <img width="434" height="303" alt="image" src="https://github.com/user-attachments/assets/f9971567-e447-4914-99ee-7511cb843018" />
     <img width="445" height="192" alt="image" src="https://github.com/user-attachments/assets/630879d6-4cb7-437f-a85b-dfa64fe63a0c" />
 
 
