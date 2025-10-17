@@ -17,10 +17,17 @@ Bấm vào đây sau khi tải Tampermonkey để tự động cài đặt Tool:
 
 
 - Sau đó nhập Key Panel: THANHHOA9D36 (HSD: 3d)
+  
   <img width="401" height="158" alt="image" src="https://github.com/user-attachments/assets/a301e028-94f4-4155-99f1-f9acb756be35" />
 
-
 - Sau khi nhập key xong, lấy API Key từ link sau: [API Key](https://aistudio.google.com/app/apikey)
+<p align="center">
+  <img width="685" height="186" alt="image" src="https://github.com/user-attachments/assets/789e8fd7-9862-433c-a7aa-6aa2746fe1a2" />
+  <img width="327" height="200" alt="image" src="https://github.com/user-attachments/assets/d4c19c77-c8b0-487a-a1ca-97c0463ae374" />
+- Tự tạo dự án sau đó bấm "Tạo một khóa"  <img width="534" height="303" alt="image" src="https://github.com/user-attachments/assets/f9971567-e447-4914-99ee-7511cb843018" />
+
+
+
 
 > [!WARNING]
 Lưu ý: Gặp lỗi thì liên hệ cho mình để fix. Vui lòng ghi Credit nếu có sử dụng code!
