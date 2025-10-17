@@ -13,6 +13,8 @@ Duc Tien Alpha - Tool AI giải bài tập.
 <img width="346" height="348" alt="502563410-cb473923-09f1-4bf0-bee7-6b6d6de90bec (1)" src="https://github.com/user-attachments/assets/2e5e158e-905b-4834-92b0-8f1b44fdf88f" />
   
 Bấm vào đây sau khi tải Tampermonkey để tự động cài đặt Tool: [DucTien Alpha 4.0 (BETA)](https://raw.githubusercontent.com/ductienalpha/DucTienAlpha4.0/main/tampermonkey.user.js)
+<img width="391" height="152" alt="image" src="https://github.com/user-attachments/assets/dd676010-fee8-4385-8082-0f202ce6a22e" />
+
 
 - Sau đó nhập Key Panel: THANHHOA9D36 (HSD: 3d)
 
