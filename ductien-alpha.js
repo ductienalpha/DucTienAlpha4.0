@@ -21,7 +21,7 @@
   'use strict';
 
   // ---------- CONFIG ----------
-  const ACCESS_KEY = "ductientest1d"; // change here to invalidate previous key for all users
+  const ACCESS_KEY = "ductien"; // change here to invalidate previous key for all users
   const STORAGE_UNLOCK_FLAG = "dt_access_granted_v1"; // stored '1' if unlocked and key matched current stored key
   const STORAGE_KEY_VERSION = "dt_access_key_saved_v1"; // store the key string that was used to unlock
   const STORAGE_API_KEY = "dt_api_key";
