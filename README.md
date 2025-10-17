@@ -6,10 +6,11 @@ Duc Tien Alpha - Tool AI giải bài tập.
 [Download Tampermonkey Cho Máy Tính](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
 
 [Download Tampermonkey Cho Điện Thoại](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+
 <p align="center">
-  <img src="[images/img1.png](https://media.discordapp.net/attachments/1395951471140278455/1428708878283178005/image.png?ex=68f37c54&is=68f22ad4&hm=c9178dac801300327c31e1e22f86a8f6646f6403c047110e35dcbe681221896e&=&format=webp&quality=lossless)" width="200">
-  <img src="images/img2.png" width="200">
-  <img src="images/img3.png" width="200">
+  <img src="https://media.discordapp.net/attachments/1395951471140278455/1428708878283178005/image.png?ex=68f37c54&is=68f22ad4&hm=c9178dac801300327c31e1e22f86a8f6646f6403c047110e35dcbe681221896e&=&format=webp&quality=lossless" width="200" style="margin: 10px;">
+  <img src="https://media.discordapp.net/attachments/1395951471140278455/1428708878283178005/image.png?ex=68f37c54&is=68f22ad4&hm=c9178dac801300327c31e1e22f86a8f6646f6403c047110e35dcbe681221896e&=&format=webp&quality=lossless" width="200" style="margin: 10px;">
+  <img src="https://media.discordapp.net/attachments/1395951471140278455/1428708878283178005/image.png?ex=68f37c54&is=68f22ad4&hm=c9178dac801300327c31e1e22f86a8f6646f6403c047110e35dcbe681221896e&=&format=webp&quality=lossless" width="200" style="margin: 10px;">
 </p>
 
 
