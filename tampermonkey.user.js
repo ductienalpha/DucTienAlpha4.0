@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        DucTien Alpha 4.0
 // @namespace   http://tampermonkey.net/
-// @version     4.0
+// @version     5.0
 // @description To solve exercises
 // @author      DucTien
 // @require     https://raw.githubusercontent.com/ductienalpha/DucTienAlpha4.0/refs/heads/main/ductien-alpha.js
