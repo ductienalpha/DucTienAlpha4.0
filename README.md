@@ -17,6 +17,8 @@ Bấm vào đây sau khi tải Tampermonkey để tự động cài đặt Tool:
 
 
 - Sau đó nhập Key Panel: THANHHOA9D36 (HSD: 3d)
+  <img width="401" height="158" alt="image" src="https://github.com/user-attachments/assets/a301e028-94f4-4155-99f1-f9acb756be35" />
+
 
 - Sau khi nhập key xong, lấy API Key từ link sau: [API Key](https://aistudio.google.com/app/apikey)
 
