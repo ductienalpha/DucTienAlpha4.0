@@ -14,7 +14,7 @@ Duc Tien Alpha - Tool AI giải bài tập.
   
 Bấm vào đây sau khi tải Tampermonkey để tự động cài đặt Tool: [DucTien Alpha 4.0 (BETA)](https://raw.githubusercontent.com/ductienalpha/DucTienAlpha4.0/main/tampermonkey.user.js)
 
-- Sau đó nhập Key Panel: dtlove9d (HSD: 1d)
+- Sau đó nhập Key Panel: THANHHOA9D36 (HSD: 3d)
 
 - Sau khi nhập key xong, lấy API Key từ link sau: [API Key](https://aistudio.google.com/app/apikey)
 
