@@ -4,6 +4,8 @@
 // @version     4.0
 // @description To solve exercises
 // @author      DucTien
+// @updateURL  https://raw.githubusercontent.com/ductienalpha/DucTienAlpha4.0/main/tampermonkey.user.js
+// @downloadURL https://raw.githubusercontent.com/ductienalpha/DucTienAlpha4.0/main/tampermonkey.user.js
 // @require     https://raw.githubusercontent.com/ductienalpha/DucTienAlpha4.0/refs/heads/main/ductien-alpha.js
 // @match       https://*/*
 // @icon        https://i.pinimg.com/1200x/0d/fc/a6/0dfca60200be23af53d552ead0d535be.jpg
