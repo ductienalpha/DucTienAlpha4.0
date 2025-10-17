@@ -1,27 +1,10 @@
-// ==UserScript==
-// @name        DucTien Alpha 4.0 (No OBF)
-// @namespace   http://tampermonkey.net/
-// @version     4.2
-// @description To solve exercises
-// @author      DucTien
-// @match       https://*/*
-// @icon        https://i.pinimg.com/1200x/0d/fc/a6/0dfca60200be23af53d552ead0d535be.jpg
-// @grant       GM_addStyle
-// @grant       GM_xmlhttpRequest
-// @grant       GM.xmlHttpRequest
-// @grant       GM.getValue
-// @grant       GM.setValue
-// @grant       GM.deleteValue
-// @grant       GM_getValue
-// @grant       GM_setValue
-// @grant       GM_deleteValue
-// ==/UserScript==
+
 
 (async function(){
   'use strict';
 
   // ---------- CONFIG ----------
-  const ACCESS_KEY = "ductien???"; // change here to invalidate previous key for all users
+  const ACCESS_KEY = "ductien"; // change here to invalidate previous key for all users
   const STORAGE_UNLOCK_FLAG = "dt_access_granted_v1"; // stored '1' if unlocked and key matched current stored key
   const STORAGE_KEY_VERSION = "dt_access_key_saved_v1"; // store the key string that was used to unlock
   const STORAGE_API_KEY = "dt_api_key";
