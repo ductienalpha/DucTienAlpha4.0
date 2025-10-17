@@ -1,5 +1,6 @@
 # DucTien Alpha 4.0 (BETA)
 Duc Tien Alpha - Tool AI giải bài tập.
+Key ưu đãi sử dụng thử trong 3 ngày : THANHHOA9D36
 
 ## **Cách dùng**
 
@@ -30,6 +31,8 @@ Bấm vào đây sau khi tải Tampermonkey để tự động cài đặt Tool:
     <img width="334" height="203" alt="image" src="https://github.com/user-attachments/assets/f9971567-e447-4914-99ee-7511cb843018" />
     <img width="345" height="192" alt="image" src="https://github.com/user-attachments/assets/630879d6-4cb7-437f-a85b-dfa64fe63a0c" />
     <img width="309" height="357" alt="image" src="https://github.com/user-attachments/assets/722f76de-f69a-49f9-81f4-f050f3cb4699" />
+
+ - Sau đó chỉ cần nhấn tổ hợp phím "Ctrl + Shift + S" để kéo chụp ảnh màn hình bài tập rồi bấm nút "Paste image & Send", Tool sẽ tự giải bài tập cho bạn
 
 > [!WARNING]
 Lưu ý: Gặp lỗi thì liên hệ cho mình để fix. Vui lòng ghi Credit nếu có sử dụng code!
