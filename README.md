@@ -1,8 +1,16 @@
 # DucTien Alpha 4.0
 Duc Tien Alpha - Tool AI giải bài tập.
 
-# **Cách dùng**
+## **Cách dùng**
 
 [Download Tampermonkey Cho Máy Tính](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+
 [Download Tampermonkey Cho Điện Thoại](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+
 Bấm vào đây sau khi tải Tampermonkey để tự động cài đặt Tool:
+
+> [!WARNING]
+Lưu ý: Gặp lỗi thì liên hệ cho mình để fix. Vui lòng ghi Credit nếu có sử dụng code!
+
+ ## Bản quyền:
+- [@DucTien](https://www.facebook.com/profile.php?id=61577305401386)
