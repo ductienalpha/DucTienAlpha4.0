@@ -19,5 +19,5 @@ Lưu ý: Gặp lỗi thì liên hệ cho mình để fix. Vui lòng ghi Credit n
  ## Bản quyền:
 - [@DucTien](https://www.facebook.com/profile.php?id=61577305401386)
 
-![Ảnh minh họa](https://images-ext-1.discordapp.net/external/yAZnUiosvpAB-RonLTxvHaqMGCp6oLXMB1g1fDVwFeU/https/opengraph.githubassets.com/5cf9b9609f7972d7617af374c08e348c564f7faf024204eaf26093dedeb459d3/phantatdung233/bypass-yeumoney?format=webp&width=930&height=465)
+
 
