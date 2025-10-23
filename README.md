@@ -38,7 +38,7 @@ Bấm vào đây sau khi tải Tampermonkey để tự động cài đặt Tool:
 Lưu ý: Gặp lỗi thì liên hệ cho mình để fix. Vui lòng ghi Credit nếu có sử dụng code!
 
  ## Bản quyền:
-- © Bản quyền Video thuộc về [@DucTien](https://www.facebook.com/profile.php?id=61577305401386)
+- © Bản quyền Tools thuộc về [@DucTien](https://www.facebook.com/profile.php?id=61577305401386)
 - © Copyright by [@DucTien](https://www.facebook.com/profile.php?id=61577305401386) ☞ Do not Reup
 
 
